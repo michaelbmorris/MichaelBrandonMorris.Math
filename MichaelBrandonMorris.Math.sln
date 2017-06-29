@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MichaelBrandonMorris.Math", "MichaelBrandonMorris.Math\MichaelBrandonMorris.Math.csproj", "{2D18726E-A1E5-4B84-B67C-C517D1796951}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MichaelBrandonMorris.Math.Tests", "MichaelBrandonMorris.Math.Tests\MichaelBrandonMorris.Math.Tests.csproj", "{139C5DF1-76A2-4196-84EC-103D74679D7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2D18726E-A1E5-4B84-B67C-C517D1796951}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D18726E-A1E5-4B84-B67C-C517D1796951}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D18726E-A1E5-4B84-B67C-C517D1796951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{139C5DF1-76A2-4196-84EC-103D74679D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{139C5DF1-76A2-4196-84EC-103D74679D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{139C5DF1-76A2-4196-84EC-103D74679D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{139C5DF1-76A2-4196-84EC-103D74679D7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
