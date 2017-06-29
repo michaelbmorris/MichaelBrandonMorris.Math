@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="CanInvertPair method" Url="html/M-MichaelBrandonMorris.Math.Tests.CantorTests.CanInvertPair.htm" />
+  <HelpKINode Title="CanInvertTuple method" Url="html/M-MichaelBrandonMorris.Math.Tests.CantorTests.CanInvertTuple.htm" />
+  <HelpKINode Title="CanPair method" Url="html/M-MichaelBrandonMorris.Math.Tests.CantorTests.CanPair.htm" />
+  <HelpKINode Title="Cantor class">
+    <HelpKINode Title="Cantor Class" Url="html/T-MichaelBrandonMorris.Math.Cantor.htm" />
+    <HelpKINode Title="Cantor Members" Url="html/AllMembers.T-MichaelBrandonMorris.Math.Cantor.htm" />
+    <HelpKINode Title="about Cantor class" Url="html/T-MichaelBrandonMorris.Math.Cantor.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-MichaelBrandonMorris.Math.Cantor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-MichaelBrandonMorris.Math.Cantor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Cantor.Inverse method" Url="html/Overload-MichaelBrandonMorris.Math.Cantor.Inverse.htm" />
+  <HelpKINode Title="Cantor.Pair method" Url="html/M-MichaelBrandonMorris.Math.Cantor.Pair.htm" />
+  <HelpKINode Title="Cantor.Tuple method" Url="html/Overload-MichaelBrandonMorris.Math.Cantor.Tuple.htm" />
+  <HelpKINode Title="CantorTests class">
+    <HelpKINode Title="CantorTests Class" Url="html/T-MichaelBrandonMorris.Math.Tests.CantorTests.htm" />
+    <HelpKINode Title="CantorTests Members" Url="html/AllMembers.T-MichaelBrandonMorris.Math.Tests.CantorTests.htm" />
+    <HelpKINode Title="about CantorTests class" Url="html/T-MichaelBrandonMorris.Math.Tests.CantorTests.htm" />
+    <HelpKINode Title="all members" Url="html/AllMembers.T-MichaelBrandonMorris.Math.Tests.CantorTests.htm" />
+    <HelpKINode Title="methods" Url="html/Methods.T-MichaelBrandonMorris.Math.Tests.CantorTests.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CantorTests.CanInvertPair method" Url="html/M-MichaelBrandonMorris.Math.Tests.CantorTests.CanInvertPair.htm" />
+  <HelpKINode Title="CantorTests.CanInvertTuple method" Url="html/M-MichaelBrandonMorris.Math.Tests.CantorTests.CanInvertTuple.htm" />
+  <HelpKINode Title="CantorTests.CanPair method" Url="html/M-MichaelBrandonMorris.Math.Tests.CantorTests.CanPair.htm" />
+  <HelpKINode Title="CantorTests.CanTuple method" Url="html/M-MichaelBrandonMorris.Math.Tests.CantorTests.CanTuple.htm" />
+  <HelpKINode Title="CanTuple method" Url="html/M-MichaelBrandonMorris.Math.Tests.CantorTests.CanTuple.htm" />
+  <HelpKINode Title="Inverse method" Url="html/Overload-MichaelBrandonMorris.Math.Cantor.Inverse.htm" />
+  <HelpKINode Title="MichaelBrandonMorris.Math namespace" Url="html/N-MichaelBrandonMorris.Math.htm" />
+  <HelpKINode Title="MichaelBrandonMorris.Math.Cantor class">
+    <HelpKINode Title="Cantor Class" Url="html/T-MichaelBrandonMorris.Math.Cantor.htm" />
+    <HelpKINode Title="Cantor Members" Url="html/AllMembers.T-MichaelBrandonMorris.Math.Cantor.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MichaelBrandonMorris.Math.Tests namespace" Url="html/N-MichaelBrandonMorris.Math.Tests.htm" />
+  <HelpKINode Title="MichaelBrandonMorris.Math.Tests.CantorTests class">
+    <HelpKINode Title="CantorTests Class" Url="html/T-MichaelBrandonMorris.Math.Tests.CantorTests.htm" />
+    <HelpKINode Title="CantorTests Members" Url="html/AllMembers.T-MichaelBrandonMorris.Math.Tests.CantorTests.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Pair method" Url="html/M-MichaelBrandonMorris.Math.Cantor.Pair.htm" />
+  <HelpKINode Title="Tuple method" Url="html/Overload-MichaelBrandonMorris.Math.Cantor.Tuple.htm" />
+</HelpKI>

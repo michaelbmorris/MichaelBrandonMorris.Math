@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="f67b02f3-e1ac-4887-b0e9-c7c6421207b4" Title="MichaelBrandonMorris.Math Namespace" Url="html/N-MichaelBrandonMorris.Math.htm">
+    <HelpTOCNode Id="14fbd134-156e-4f53-a029-a4b89556f180" Title="Cantor Class" Url="html/T-MichaelBrandonMorris.Math.Cantor.htm">
+      <HelpTOCNode Title="Cantor Members" Url="html/AllMembers.T-MichaelBrandonMorris.Math.Cantor.htm" />
+      <HelpTOCNode Id="553bc277-b1cd-4c5c-90d1-c35a30605d0b" Title="Cantor Methods" Url="html/Methods.T-MichaelBrandonMorris.Math.Cantor.htm">
+        <HelpTOCNode Id="88ac09ce-9a05-499d-9000-1745809c8923" Title="Inverse Method " Url="html/Overload-MichaelBrandonMorris.Math.Cantor.Inverse.htm">
+          <HelpTOCNode Title="Inverse Method (Int32)" Url="html/M-MichaelBrandonMorris.Math.Cantor.Inverse.htm" />
+          <HelpTOCNode Title="Inverse Method (Int32, Int32)" Url="html/M-MichaelBrandonMorris.Math.Cantor.Inverse_1.htm" />
+          <HelpTOCNode Title="Inverse Method (Int32, Int32, Int32[])" Url="html/M-MichaelBrandonMorris.Math.Cantor.Inverse_2.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Pair Method " Url="html/M-MichaelBrandonMorris.Math.Cantor.Pair.htm" />
+        <HelpTOCNode Id="5f54ed20-e569-4f17-b9d6-64a68d302e51" Title="Tuple Method " Url="html/Overload-MichaelBrandonMorris.Math.Cantor.Tuple.htm">
+          <HelpTOCNode Title="Tuple Method (Int32[])" Url="html/M-MichaelBrandonMorris.Math.Cantor.Tuple.htm" />
+          <HelpTOCNode Title="Tuple Method (Int32, Int32, Int32[])" Url="html/M-MichaelBrandonMorris.Math.Cantor.Tuple_1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="bb2b08ff-45eb-45c1-898d-6d217577f4f5" Title="MichaelBrandonMorris.Math.Tests Namespace" Url="html/N-MichaelBrandonMorris.Math.Tests.htm">
+    <HelpTOCNode Id="a6eeb6ab-5a7e-4633-83ad-2aec1adf6154" Title="CantorTests Class" Url="html/T-MichaelBrandonMorris.Math.Tests.CantorTests.htm">
+      <HelpTOCNode Title="CantorTests Members" Url="html/AllMembers.T-MichaelBrandonMorris.Math.Tests.CantorTests.htm" />
+      <HelpTOCNode Id="243e9a14-3bbd-4ef0-93b8-52a01e1330d8" Title="CantorTests Methods" Url="html/Methods.T-MichaelBrandonMorris.Math.Tests.CantorTests.htm">
+        <HelpTOCNode Title="CanInvertPair Method " Url="html/M-MichaelBrandonMorris.Math.Tests.CantorTests.CanInvertPair.htm" />
+        <HelpTOCNode Title="CanInvertTuple Method " Url="html/M-MichaelBrandonMorris.Math.Tests.CantorTests.CanInvertTuple.htm" />
+        <HelpTOCNode Title="CanPair Method " Url="html/M-MichaelBrandonMorris.Math.Tests.CantorTests.CanPair.htm" />
+        <HelpTOCNode Title="CanTuple Method " Url="html/M-MichaelBrandonMorris.Math.Tests.CantorTests.CanTuple.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
