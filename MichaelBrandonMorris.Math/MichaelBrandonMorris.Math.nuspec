@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MichaelBrandonMorris.Math</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>http://michaelbmorris.com/MichaelBrandonMorris.Math/LICENSE.txt</licenseUrl>
+    <projectUrl>http://michaelbmorris.com/MichaelBrandonMorris.Math/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Math functions not provided in System.Math.</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>math</tags>
+  </metadata>
+</package>

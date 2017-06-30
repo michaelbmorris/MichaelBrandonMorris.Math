@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MichaelBrandonMorris.Math.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Domtar")]
+[assembly: AssemblyCompany("Michael Brandon Morris")]
 [assembly: AssemblyProduct("MichaelBrandonMorris.Math.Tests")]
 [assembly: AssemblyCopyright("Copyright © Domtar 2017")]
 [assembly: AssemblyTrademark("")]
